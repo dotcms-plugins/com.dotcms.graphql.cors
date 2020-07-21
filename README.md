@@ -1,4 +1,7 @@
-# Cors headers for GraphQL
+# Incorporated into the core as of dotCMS v.5.3
+
+
+### Cors headers for GraphQL
 
 This plugin adds an interceptor that reads cors headers from the `dotmarketing-config.properties` and adds them to graphql api calls.
 
